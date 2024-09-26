@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/aureliengiry/semantic-release-test/compare/v1.2.0...v1.2.1) (2024-09-26)
+
+
+### Bug Fixes
+
+* remove packages.json ([72a4cf3](https://github.com/aureliengiry/semantic-release-test/commit/72a4cf323b836bbd54a4cd00ce9efeffb2966e3d))
+
 # [1.2.0](https://github.com/aureliengiry/semantic-release-test/compare/v1.1.0...v1.2.0) (2024-09-26)
 
 
