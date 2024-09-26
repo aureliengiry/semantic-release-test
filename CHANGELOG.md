@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/aureliengiry/semantic-release-test/compare/v1.1.0...v1.2.0) (2024-09-26)
+
+
+### Features
+
+* add semantic-release/github ([fed57e1](https://github.com/aureliengiry/semantic-release-test/commit/fed57e126dcd4971c446d2df864bae447031a7b9))
+
 # [1.1.0](https://github.com/aureliengiry/semantic-release-test/compare/v1.0.1...v1.1.0) (2024-09-26)
 
 
