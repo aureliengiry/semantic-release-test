@@ -1,8 +1,9 @@
 name: docker push
 on:
-  push:
-    tags:
-      - '*'
+  workflow_run:
+    workflows: [Release]
+    types:
+      - completed
 
 permissions:
   contents: read # for checkout
