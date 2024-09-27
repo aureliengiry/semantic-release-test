@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/aureliengiry/semantic-release-test/compare/v1.2.1...v1.2.2) (2024-09-27)
+
+
+### Bug Fixes
+
+* fix docker workflow ([57ddf41](https://github.com/aureliengiry/semantic-release-test/commit/57ddf418720407cf9a701f1c3579aa95c63456dc))
+
 ## [1.2.1](https://github.com/aureliengiry/semantic-release-test/compare/v1.2.0...v1.2.1) (2024-09-26)
 
 
