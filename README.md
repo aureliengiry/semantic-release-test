@@ -9,6 +9,6 @@ Correctif
 
 NEW feature
 
-Test correctif
+Test correctif +0.1
 
 Nouvelle feature
