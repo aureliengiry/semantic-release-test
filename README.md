@@ -11,4 +11,4 @@ NEW feature
 
 Test correctif +0.1
 
-Nouvelle feature
+Nouvelle feature +1.0
