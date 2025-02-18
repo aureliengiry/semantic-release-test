@@ -3,6 +3,18 @@
 
 ### Bug Fixes
 
+* update readme ([d9573c2](https://github.com/aureliengiry/semantic-release-test/commit/d9573c263c630fae8b32e800288dc6281cc7b42c))
+
+
+### Features
+
+* new feature ([144a313](https://github.com/aureliengiry/semantic-release-test/commit/144a313ec766c485c85e7e8ba771a3feb8129373))
+
+# [1.5.0](https://github.com/aureliengiry/semantic-release-test/compare/v1.4.0...v1.5.0) (2025-02-18)
+
+
+### Bug Fixes
+
 * update readme ([be825e2](https://github.com/aureliengiry/semantic-release-test/commit/be825e25214afafd0ec31aa7802808e14ac33e05))
 
 
