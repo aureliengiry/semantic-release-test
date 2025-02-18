@@ -10,3 +10,5 @@ Correctif
 NEW feature
 
 Test correctif
+
+Nouvelle feature
