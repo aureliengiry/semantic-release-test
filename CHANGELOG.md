@@ -1,3 +1,15 @@
+# [1.4.0-next.1](https://github.com/aureliengiry/semantic-release-test/compare/v1.3.0...v1.4.0-next.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* fix tests issue ([3cfa6a0](https://github.com/aureliengiry/semantic-release-test/commit/3cfa6a063b52556a511bb92783bd06a8c2efcd5c))
+
+
+### Features
+
+* add new test ([00c2653](https://github.com/aureliengiry/semantic-release-test/commit/00c26538992e80a2a78dd498ae5b5e900bba0de8))
+
 # [1.3.0](https://github.com/aureliengiry/semantic-release-test/compare/v1.2.5...v1.3.0) (2025-02-18)
 
 
